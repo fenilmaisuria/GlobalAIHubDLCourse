@@ -1,21 +1,23 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
+
+## [Introduction to Deep Learning Course ](https://github.com/globalaihub/introduction-to-deep-learning)
+
+
 **Course Date:** 01.03.2021  
 **Name:** Fenil  
 **Surname:** Maisuria  
 **Email:** fenilmaisuria@outlook.com  
-
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
 ## Project Name
 Description of your project.
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+Pandas
+Numpy
+Matplotlib
 ```
 ---
 
